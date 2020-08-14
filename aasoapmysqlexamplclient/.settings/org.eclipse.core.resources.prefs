@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/com/aasoapexample/Product.java=UTF-8
+encoding//src/com/aasoapexample/ProductCatelogCont.java=UTF-8
+encoding//src/com/aasoapexample/ProductCatelogContImplPortBindingStub.java=UTF-8
+encoding//src/com/aasoapexample/ProductCatelogContImplService.java=UTF-8
+encoding//src/com/aasoapexample/ProductCatelogContImplServiceLocator.java=UTF-8
+encoding//src/com/aasoapexample/dao/Product.java=UTF-8
+encoding//src/com/aasoapexample/dao/ProductDao.java=UTF-8
+encoding//src/com/aasoapexample/dao/ProductDaoImplPortBindingStub.java=UTF-8
+encoding//src/com/aasoapexample/dao/ProductDaoImplService.java=UTF-8
+encoding//src/com/aasoapexample/dao/ProductDaoImplServiceLocator.java=UTF-8
+encoding//src/com/aasoapexample/service/Product.java=UTF-8
+encoding//src/com/aasoapexample/service/ProductCatelogSer.java=UTF-8
+encoding//src/com/aasoapexample/service/ProductCatelogServicePortBindingStub.java=UTF-8
+encoding//src/com/aasoapexample/service/ProductCatelogServiceService.java=UTF-8
+encoding//src/com/aasoapexample/service/ProductCatelogServiceServiceLocator.java=UTF-8
